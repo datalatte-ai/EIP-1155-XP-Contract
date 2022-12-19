@@ -2,10 +2,10 @@
     <img src="https://www.datalatte.com/imgs/datalatte.svg">
 </p>
 <p align="center">
-    <a href="https://github.com/datalatte-ai/Knowledge-graph-storage-on-filecoin/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/datalatte-ai/Knowledge-graph-storage-on-filecoin" /></a>
-    <a href="https://github.com/datalatte-ai/Knowledge-graph-storage-on-filecoin/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/datalatte-ai/Knowledge-graph-storage-on-filecoin" /></a>
+    <a href="https://github.com/datalatte-ai/EIP-1155-XP-Contract/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/datalatte-ai/EIP-1155-XP-Contract" /></a>
+    <a href="https://github.com/datalatte-ai/EIP-1155-XP-Contract/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/datalatte-ai/EIP-1155-XP-Contract" /></a>
     <a href="https://discord.com/invite/saUmuZ3Rrw">
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a>
